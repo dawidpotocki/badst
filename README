@@ -1,0 +1,14 @@
+In order to build st you need the Xlib header files.
+
+Run and build st:
+
+```
+$ make
+$ ./st
+```
+
+Test artifacting in st:
+
+```
+$ ./artifacting.sh
+```
